@@ -95,7 +95,7 @@ body{
     font-weight: 700;
 }
 .home-img img{
-    width: 105vh;
+    width: 90vh;
     height: 100vh;
     animation: floatImage 4s ease-in-out infinite;
 }
