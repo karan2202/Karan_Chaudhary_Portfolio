@@ -96,7 +96,7 @@ body{
 }
 .home-img img{
     width: 90vh;
-    height: 95vh;
+    height: 85vh;
     animation: floatImage 4s ease-in-out infinite;
 }
 
